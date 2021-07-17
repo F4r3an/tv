@@ -1,0 +1,108 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-name="Farzan" tvg-country="tr" tvg-language="Turkish" ,POWERTÜRK TV alt2
+https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="tur" tvg-language="Turkish" ,Radyo Kulüp
+http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Damar TV
+http://51.255.7.18:8080/hls/damar.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,LALEGÜL TV
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Mesaj TV
+https://waw2.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Çiftçi TV
+https://waw2.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Elit TV İsviçre
+http://source2.primetime.ch:2981/play/elittv/index.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Güneş TV Kibris
+http://kuzeykibris.tv/m3u8/tv_gunes.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,BRT 1 FHD
+http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,BRT 2 FHD
+http://kuzeykibris.tv/m3u8/tv_brt2.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Kanal T FHD
+http://kuzeykibris.tv/m3u8/tv_kanalt.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Kibris TV
+http://kuzeykibris.tv/m3u8/tv_ktv.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Kibris TV
+https://play.kibrisfm.com/hls/canli1.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Genç TV
+http://kuzeykibris.tv/m3u8/tv_genc.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Sim TV
+http://kuzeykibris.tv/m3u8/tv_sim.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Ada TV
+http://kuzeykibris.tv/m3u8/tv_ada.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,AKSU TV
+https://waw2.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Alanya Posta TV
+http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Beşiktaş Belediyesi Web TV
+http://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Bizim Atürk TV
+https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Bodrum Belediyesi Web TV
+https://win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/chunklist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Bursa AS TV
+https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,ÇANAKKALE TON TV
+https://waw2.artiyerelmedya.net/tontv/bant1/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,ÇAY TV
+http://stream2.taksimbilisim.com:1935/caytv/smil:caytv.smil/iptvdelisi.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Dersim 62 TV
+http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,DIM TV Alanya
+https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Ege TV
+https://waw1.artiyerelmedya.net/egetv/bant1/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,ERT Şah TV Erzincan
+http://win20.yayin.com.tr/ertsahtv/ertsahtv/iptvdelisi.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Finest TV
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,FTV Türk
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,KANAL 3
+http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/iptvdelisi.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,KANAL 15
+https://waw2.artiyerelmedya.net/kanal15/bant1/chunks.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,KANAL 23
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,KANAL 33 alt.
+http://stream.taksimbilisim.com:1935/kanal33/bant1/chunklist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,KANAL 34
+http://live.arkumedia.com:1935/kanal34tv/kanal34tv/chunklist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,KANAL 34 alt.
+https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/chunklist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,KANAL 68
+https://waw2.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,KANAL B
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,KANAL FIRAT
+https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,KANAL Z
+https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,LINE TV
+https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,MC EU TV
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,OGÜN TV
+https://s01.vpis.io/ogun/ogun.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,ÖNCÜ TV
+https://broadcasttr.com:446/oncurtv/bant1/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Royal TV
+http://source2.primetime.ch:2981/play/royaltv/index.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Sariyer TV
+http://s01.vpis.io/sariyer/sariyer.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Sinop Yildiz TV
+http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,TV 41
+https://waw1.artiyerelmedya.net/tv41/bant1/chunks.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,TV 52
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/iptvdelisi.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,TV 52 alt2
+https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Uçankuş TV
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Üniversite TV
+https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
+#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,ÜÜ TV Üsküdar Üniversitesi TV
+https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
