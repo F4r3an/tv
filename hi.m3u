@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,POWERTÜRK TV alt2
+#EXTINF:-1  tvg-name="ALTV" tvg-country="tur" tvg-language="Turkish" ,POWERTÜRK TV alt2
 https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
 #EXTINF:-1  tvg-name="ALTV" tvg-country="Turkey" tvg-language="Turkish" ,Radyo Kulüp
 http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
